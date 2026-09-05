@@ -16,3 +16,8 @@ for example:
 
 python generate_subtext_gpx_data_files.py Kotka_jukola_2026.gpx 53
 
+After generating the files you may add the subtext file for your videos.
+Youtube: Subtexts -> Send file -> overlay.vtt
+
+For testing purposes local VLC Player is a great tool: Select a subtext file from
+the toolbar and off you go.
