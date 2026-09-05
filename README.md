@@ -21,3 +21,7 @@ Youtube: Subtexts -> Send file -> overlay.vtt
 
 For testing purposes local VLC Player is a great tool: Select a subtext file from
 the toolbar and off you go.
+
+Here is my Kotka Jukola 2026 video for review. Add finnish subtext to see the result. 
+GPX data starts at 53 secs as seen in this Readme-file.
+https://www.youtube.com/watch?v=FIUgAXnU45Q
