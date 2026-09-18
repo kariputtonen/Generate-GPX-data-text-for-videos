@@ -38,7 +38,8 @@ Here is my Kotka Jukola 2026 video for review. Add finnish subtext to see the re
 GPX data starts at 53 secs as seen in this Readme-file.
 https://www.youtube.com/watch?v=FIUgAXnU45Q
 
-<b>The format ot the vtt-file:</b><br>
+<b>The format of the vtt-file:</b><br>
+---clip---<br>
 00:00:58.000 --> 00:01:00.000<br>
 0.00km	-	114bpm	Alt:96m<br>
 
@@ -56,4 +57,4 @@ https://www.youtube.com/watch?v=FIUgAXnU45Q
 
 00:01:08.000 --> 00:01:12.000<br>
 0.02km	10:35/km	122bpm	Alt:94m<br>
-
+---clip---
